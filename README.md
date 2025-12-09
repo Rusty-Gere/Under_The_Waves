@@ -22,7 +22,7 @@ This Mod adds an optional 'smart' first person camera to the game when on foot o
 
 1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01125-778168d4a5cffe81b1ce4be3b0f17df3a2e970ad)
  (This is the latest version confirmed to work with the MOD. Anything later should also be fine).
-2. Download the Under The Waves Mod from [HERE](....) (coming soon)
+2. Download the Under The Waves Mod from [HERE](https://github.com/Rusty-Gere/Under_The_Waves/releases/download/v.1.0.0/UnderTheWaves-Win64-Shipping.zip)
 3. Run the UEVR injector, then click "Import Config" in the left-hand menu.
 Navigate to where you saved the MOD, it should be named "UnderTheWaves-Win64-Shipping.zip", select the file and click Open to import. A File Explorer window will open, you can just close that again, the file is now imported.
 
@@ -39,21 +39,21 @@ Navigate to where you saved the MOD, it should be named "UnderTheWaves-Win64-Shi
 > [!NOTE]
 > * When the game starts for the first time with this MOD installed, you will see a custom UI with the Features and Controls overview.
 > If it doesn't show by itself, hit the Ins key or click both controller sticks, then click on the WAVE tab.
-> * No 6DOF controls, as interactions are done cinematically. Even so, having a proper 1st person camera for exploration adds significantly to the immersion, making this a much more 'VR' style experience.
+> * No 6DOF controls, as interactions are done cinematically. Even so, having a proper 1st person camera for exploration adds significantly to the immersion, making this a much more VR style experience.
 > * Some objects fade out when you approach them in 1st person. This is the game forcing transparency when close to the camera. 
 > * The Mod dynamically changes the render mode to minimize stutters and flickers in various scenes. Should you encounter any flickering, simply pause and unpause to fix it.
-> * Dev'd and tested on Quest 3 with Steam version of the game, but should work with any HMD and controller set. 
-
+> * Some actions require switching to 3rd person, e.g. pushing against certain objects. You'll know when it happens.
+> * Dev'd and tested on Quest 3 using XBox controller, with Steam version of the game.
 
 ### If you run into any issues, ping me on Flat2VR Discord – happy diving!
 
 
 ## Credits and Thank-you
 
-* Elliot Tate for kick-starting this whole Flat2VR Discord community.
-* Praydog for the incredible UEVR injector
-* JBusfield for his extensive helper libraries
-* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders for being a great community
+* Elliot Tate for kick-starting the Flat2VR Discord community.
+* Praydog for the incredible UEVR injector.
+* JBusfield for his extensive helper libraries.
+* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders.
 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

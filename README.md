@@ -47,17 +47,7 @@ Navigate to where you saved the MOD, it should be named "UnderTheWaves-Win64-Shi
 
 ### If you run into any issues, ping me on Flat2VR Discord – happy diving!
 
-
-## Credits and Thank-you
-
-* Elliot Tate for kick-starting the Flat2VR Discord community.
-* Praydog for the incredible UEVR injector.
-* JBusfield for his extensive helper libraries.
-* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders.
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 
 <details><summary><b>💰 Tip Me</b></summary>
@@ -69,6 +59,15 @@ I do this for free, but please consider a donation if you enjoy my work.
 This way I can justify spending more time on this, and buy my wife stuff so she lets me work in peace. :)
 
 Thanks for the support! 🚀
+
+
+## Credits and Thank-you
+
+* Elliot Tate for kick-starting the Flat2VR Discord community.
+* Praydog for the incredible UEVR injector.
+* JBusfield for his extensive helper libraries.
+* DJ (DeterministicJ), Panda4360, Gwizdek, Ashok, Lobotomy, and all the other modders.
+
 
 
 

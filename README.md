@@ -22,7 +22,7 @@ This Mod adds an optional 'smart' first person camera to the game when on foot o
 
 1. Download and install UEVR injector from [HERE](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01125-778168d4a5cffe81b1ce4be3b0f17df3a2e970ad)
  (This is the latest version confirmed to work with the MOD. Anything later should also be fine).
-2. Download the Under The Waves Mod from [HERE](https://github.com/Rusty-Gere/Under_The_Waves/releases/download/v.1.0.0/UnderTheWaves-Win64-Shipping.zip)
+2. Download the Under The Waves Mod from [HERE](https://github.com/Rusty-Gere/Under_The_Waves/releases/download/v.1.1/UnderTheWaves-Win64-Shipping.zip)
 3. Run the UEVR injector, then click "Import Config" in the left-hand menu.
 Navigate to where you saved the MOD, it should be named "UnderTheWaves-Win64-Shipping.zip", select the file and click Open to import. A File Explorer window will open, you can just close that again, the file is now imported.
 
